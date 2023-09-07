@@ -8,29 +8,29 @@ IDLE SC Verifier is a specialized service designed to validate Smart Contracts. 
 
 Clone the repository to your local machine:
 
-\`\`\`bash
+```bash
 git clone https://github.com/PTS3000/idlescverifier.git
-\`\`\`
+```
 
 Navigate into the directory:
 
-\`\`\`bash
+```bash
 cd idlescverifier
-\`\`\`
+```
 
 Install dependencies (example for Node.js project):
 
-\`\`\`bash
+```bash
 npm install
-\`\`\`
+```
 
 ## Usage
 
 Provide information on how to use the application. For instance:
 
-\`\`\`bash
+```bash
 node app.js --contract=<SmartContractAddress>
-\`\`\`
+```
 
 ## Features
 
